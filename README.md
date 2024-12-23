@@ -62,7 +62,6 @@ From the above characteristic table, we can directly write the next state equati
     endmodule
 
 
-
 **RTL LOGIC FOR FLIPFLOP**
 
 ![Screenshot 2024-12-23 084245](https://github.com/user-attachments/assets/bd09c7d2-edd3-4a61-a895-62b89f6f9ad1)
