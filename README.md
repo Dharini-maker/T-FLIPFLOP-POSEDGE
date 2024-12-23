@@ -57,5 +57,6 @@ From the above characteristic table, we can directly write the next state equati
 ![wave](https://github.com/user-attachments/assets/92eec5e1-e0d7-4bd0-ad5d-ab6136dd0152)
 
 **RESULT**
+
 The program of T flipflop using verilog and validating their functionality using their functional tables is implemented.
 
